@@ -8,22 +8,27 @@ node-js-cuda
 *  npm and node version 10.x +
 * **nan** is needed which can be installed by npm.
 
-## Compile from the source and test:
-
-!git clone https://github.com/generic-matrix/node-js-cuda.git
-!cd node-js-cuda && npm install --unsafe-perm -g
-!cd node-js-cuda && node index.js
-
-**Make sure to make it run we need to update the following as it may be machine specific : **
-
- "sources": [ "main.cpp",**'/content/node-js-cuda/test.o'**],
- And
- 'library_dirs': [**'/usr/local/cuda/lib64'**]
- in the **binding.gyp**
-
 ## Working Example  :
 Here is the google Colab link 
 The test.cu you can get it this GitHub repo. in real time you can use your own **.cu** program .
+
+
+## Compile from the source and test:
+
+```
+!git clone https://github.com/generic-matrix/node-js-cuda.git
+!cd node-js-cuda && npm install --unsafe-perm -g
+!cd node-js-cuda && node index.js
+   ```
+
+## Make sure to make it run we need to update the following as it may be machine specific :
+
+ ```"sources": [ "main.cpp",'/content/node-js-cuda/test.o'],```
+ 
+ ## And
+ ```'library_dirs': [ '/usr/local/cuda/lib64']```
+ in the **binding.gyp**
+
 
 
 ## What’s next ?
