@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+"repository": {
+    "type": "git",
+    "url": "https://github.com/generic-matrix/node-js-cuda"
+  },
   "author": "Kaustubh B. (appdevcorp999@gmail.com)",
   "license": "MIT"
 }
