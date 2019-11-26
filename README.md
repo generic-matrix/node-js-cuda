@@ -33,4 +33,4 @@ cd node-js-cuda && node index.js
 
 
 ## What’s next ?
-**We will need to implement shared memory** between nan and **.cu** so the GPUs access will become faster 
+**We will need to implement shared memory** between nan and **.cu** so the GPUs access will become more faster 
