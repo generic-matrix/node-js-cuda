@@ -5,8 +5,8 @@ node-js-cuda
 
 * **nvcc** must be installed. Check it using **nvcc —version**
 *  g++/cc to be installed.
-*  npm and node version 10.x +
-* **nan** is needed which can be installed by npm.
+*  npm and node version 8.x +
+* **nan v8** is needed which can be installed by npm.
 
 ## Working Example  :
 Here is the google Colab link 
