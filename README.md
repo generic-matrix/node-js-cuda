@@ -17,9 +17,9 @@ https://colab.research.google.com/drive/1ZQr696mvpMnHyImohrwwefxpgiNCAC-w
 ## Compile from the source and test:
 
 ```
-!git clone https://github.com/generic-matrix/node-js-cuda.git
-!cd node-js-cuda && npm install --unsafe-perm -g
-!cd node-js-cuda && node index.js
+git clone https://github.com/generic-matrix/node-js-cuda.git
+cd node-js-cuda && npm install --unsafe-perm -g
+cd node-js-cuda && node index.js
    ```
 
 ## Make sure to make it run we need to update the following as it may be machine specific :
