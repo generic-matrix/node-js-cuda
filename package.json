@@ -1,5 +1,5 @@
 {
-  "name": "node-js-cuda",
+  "name": "cuda-node-js",
   "version": "1.0.0",
   "description": "Cuda Node JS binding using napi API with working example.",
   "main": "index.js",
@@ -11,12 +11,12 @@
     "url": "https://github.com/generic-matrix/node-js-cuda"
   },
   "keywords": [
-    "Node js nvidia",
+    "Node.js Nvidia",
     "cuda",
     "c++",
-    "nvdia gpu",
+    "nvidia gpu",
     "gpu accelerated",
-    "node js cuda binding"
+    "node.js cuda binding"
   ],
   "author": "Kaustubh B. <appdevcorp999@gmail.com>",
   "license": "MIT",
