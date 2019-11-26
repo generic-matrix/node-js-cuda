@@ -34,4 +34,4 @@ https://colab.research.google.com/drive/1ZQr696mvpMnHyImohrwwefxpgiNCAC-w
 
 
 ## What’s next ?
-**We will need to implement shared memory** between nan and *.cu * so the GPUs access will become faster 
+**We will need to implement shared memory** between nan and **.cu** so the GPUs access will become faster 
