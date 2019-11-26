@@ -1,5 +1,5 @@
 # Node JS Cuda binding
-node-js-cuda
+cuda-node-js
 
 ## Prerequisites :
 
