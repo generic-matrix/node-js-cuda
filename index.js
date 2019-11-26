@@ -15,5 +15,6 @@ console.log(addon.math_func(0,4,5));
 console.log(addon.math_func(1,5,6));
 console.log(addon.math_func(2,5,6));
 console.log(addon.math_func(3,2,5));
+//the 2nd argument is Ambiguous
 console.log(addon.math_func(4,5,6));
 
