@@ -11,8 +11,7 @@ node-js-cuda
 ## Working Example  :
 Here is the google Colab link 
 The test.cu you can get it this GitHub repo. in real time you can use your own **.cu** program .
-
-## Google colab link:
+**Google colab link:**
 https://colab.research.google.com/drive/1ZQr696mvpMnHyImohrwwefxpgiNCAC-w
 
 ## Compile from the source and test:
