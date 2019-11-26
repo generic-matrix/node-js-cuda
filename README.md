@@ -22,7 +22,7 @@ cd node-js-cuda && npm install --unsafe-perm -g
 cd node-js-cuda && node index.js
    ```
 
-## Make sure to make it run we need to update the following as it may be machine specific :
+## Make sure to make it run we need to update the following directory as it may be machine specific :
 
  ```"sources": [ "main.cpp",'/content/node-js-cuda/test.o'],```
  
