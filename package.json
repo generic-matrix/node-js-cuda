@@ -1,0 +1,11 @@
+{
+  "name": "node-js-cuda",
+  "version": "1.0.0",
+  "description": "Cuda Node JS binding using napi API with working example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaustubh B. (appdevcorp999@gmail.com)",
+  "license": "MIT"
+}
