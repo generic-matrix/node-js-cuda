@@ -7,8 +7,8 @@ The first argument stand for:
      0 --> Addition
      1 --> Subtract
      2 --> Multiplication
-     3 --> Power
-     4 --> Exponential
+     3 --> Exponential
+     4 --> Power
 */
 
 console.log(addon.math_func(0,4,5));
