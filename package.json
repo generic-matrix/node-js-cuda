@@ -4,12 +4,25 @@
   "description": "Cuda Node JS binding using napi API with working example.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
 "repository": {
     "type": "git",
     "url": "https://github.com/generic-matrix/node-js-cuda"
   },
-  "author": "Kaustubh B. (appdevcorp999@gmail.com)",
-  "license": "MIT"
+  "keywords": [
+    "Node js nvdia",
+    "cuda",
+    "c++",
+    "nvdia gpu",
+    "gpu accelerated",
+    "node js cuda binding"
+  ],
+  "author": "Kaustubh B. <appdevcorp999@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-addon-api":"^1.7.0",
+    "nan": "^2.14.0"
+  
+  }
 }
