@@ -2,7 +2,7 @@
 This directory is system relative 
 */
 
-var addon = require('cuda-node-js');
+var addon = require('/content/node-js-cuda/build/Release/addon.node');
 
 
 
